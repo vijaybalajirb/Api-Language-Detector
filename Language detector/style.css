@@ -1,0 +1,32 @@
+.heading{
+    font-size: 50px;
+    text-align: center;
+    padding: 20px;
+    background-color: wheat;
+    font-family: sans-serif;
+}
+.form-control{
+    
+    height: 200px;
+    border: 3cm;
+    background-color: wheat;
+
+}
+.form-group{
+    padding: 30px;
+    background-color: rgb(0, 0, 0);
+
+
+}
+
+.wrapper{
+    text-align: center;
+    
+}
+
+.data{
+    font-size: 40px;
+    font-family: cursive;
+    background-color: wheat;
+
+}
